@@ -50,14 +50,6 @@ An immersive 3D interactive experience showcasing the Apple MacBook Pro using **
 
 ---
 
-## 🖼️ Screenshots
-
-### Landing View:
-![Landing View](https://via.placeholder.com/800x400)
-
-### Scroll Interaction:
-![Scroll Interaction](https://via.placeholder.com/800x400)
-
 ---
 
 ## 🛠️ Customization
