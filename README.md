@@ -59,7 +59,7 @@ Replace `mac.glb` in the `public/` directory with your own `.glb` file.
 ### Changing the Texture
 Update the `red.jpg` file in the `public/` directory with your preferred texture.
 
----
+
 
 ## 🌐 Resources
 
@@ -67,26 +67,26 @@ Update the `red.jpg` file in the `public/` directory with your preferred texture
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Polyhaven HDRIs](https://polyhaven.com/)
 
----
+
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open a pull request or raise an issue for suggestions or bugs.
 
----
+
 
 ## 📜 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
+
 
 ## 🧑‍💻 Author
 
 **Shahdin Salman**  
 [GitHub](https://github.com/shahdinsalman23) | [LinkedIn](https://www.linkedin.com/in/shahdinsalman)
 
----
+
 
 ## ⭐ Acknowledgements
 
