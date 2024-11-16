@@ -1,4 +1,4 @@
-# Apple MacBook Pro Animation Project 🎨
+# Apple MacBook Pro Animation Project 💻 
 
 An immersive 3D interactive experience showcasing the Apple MacBook Pro using **React Three Fiber** and **Tailwind CSS**. This project highlights a stunning animation of the MacBook Pro with a scroll-based rotation effect, custom textures, and a responsive interface inspired by Apple's elegant design.
 
