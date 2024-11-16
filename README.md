@@ -40,7 +40,9 @@ An immersive 3D interactive experience showcasing the Apple MacBook Pro using **
 │   ├── style.css          # Custom Tailwind styles
 ├── tailwind.config.js    # Tailwind CSS configuration
 ├── README.md             # Project documentation
+
 ```
+
 
 ## 🎮 Usage
 
@@ -48,9 +50,6 @@ An immersive 3D interactive experience showcasing the Apple MacBook Pro using **
 - **Zoom/Rotate**: Use OrbitControls to explore the 3D model.
 - **Navbar**: Interact with the Apple-inspired navbar for UI navigation (static links).
 
----
-
----
 
 ## 🛠️ Customization
 
